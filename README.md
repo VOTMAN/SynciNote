@@ -19,8 +19,7 @@ A simple, elegant note-taking app with Markdown support and AI assistance. Built
 * [Google GenAI](https://ai.google.dev) — Gemini API
 * [Tailwind CSS 4](https://tailwindcss.com) + [DaisyUI 5](https://daisyui.com)
 * [TypeScript](https://www.typescriptlang.org)
-
-- [ ] Hosted on [Vercel](https://vercel.com)
+* Hosted on [Vercel](https://vercel.com)
 
 ## Getting Started
 
