@@ -12,6 +12,7 @@
       >
         Click to Enter
       </a>
+      <h4>DEMO ONLY; NOTHING WILL BE SAVED</h4>
     </div>
   </div>
 </div>
